@@ -8,6 +8,7 @@ using HelloWorld;
 using HelloWorld.Controllers;
 
 // Change comment
+// Change comment 2
 namespace HelloWorld.Tests.Controllers
 {
     [TestClass]
