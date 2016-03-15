@@ -11,6 +11,9 @@ using HelloWorld.Controllers;
 // Change comment 2
 namespace HelloWorld.Tests.Controllers
 {
+    /// <summary>
+    /// XML Based comment added...by RK
+    /// </summary>
     [TestClass]
     public class HomeControllerTest
     {
