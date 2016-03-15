@@ -8,8 +8,12 @@ using HelloWorld;
 using HelloWorld.Controllers;
 
 // Change comment
+
 namespace HelloWorld.Tests.Controllers
 {
+    /// <summary>
+    /// XML Based comment added...by RK
+    /// </summary>
     [TestClass]
     public class HomeControllerTest
     {
